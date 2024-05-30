@@ -1,0 +1,7 @@
+{
+  "name": "azteca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
